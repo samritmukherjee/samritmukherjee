@@ -66,9 +66,3 @@ Currently working on creative AI tools, full-stack systems, and hackathon projec
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samritmukherjee&theme=radical&hide_border=true&layout=compact" />
 </p>
-
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=samritmukherjee&icon=0&color=6" />
-</p>
