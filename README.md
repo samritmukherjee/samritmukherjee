@@ -1,13 +1,30 @@
-# Hi 👋, I'm Samrit Mukherjee
-BTech CSE (AI & ML) student focused on building practical AI-powered web applications.  <br>Currently working on creative AI tools, full-stack systems, and hackathon projects.
+<h1 align="center">Hi 👋, I'm Samrit Mukherjee</h1>
 
+<p align="center">
+BTech CSE (AI & ML) student focused on building practical AI-powered web applications.<br>
+Currently working on creative AI tools, full-stack systems, and hackathon projects.
+</p>
 
-## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samrit-mukherjee-412788318)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:samritmukherjee05@gmail.com)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=samritmukherjee&label=Profile%20Views&color=brightgreen&style=for-the-badge" />
+</p>
 
+---
 
-# 💻 Tech Stack
+<h3 align="center">🌐 Connect with Me</h3>
+
+<p align="center">
+  <a href="https://linkedin.com/in/samrit-mukherjee-412788318">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:samritmukherjee05@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 💻 Tech Stack
 
 ### Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
@@ -30,13 +47,28 @@ BTech CSE (AI & ML) student focused on building practical AI-powered web applica
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=plastic&logo=Adobe%20Premiere%20Pro&logoColor=white)
 
+---
 
+## 📊 Contribution Calendar
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=samritmukherjee&limit=5&theme=radical&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://ghchart.rshah.org/samritmukherjee" alt="Samrit Mukherjee's GitHub contribution chart" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=samritmukherjee&icon=0&color=6)](https://visitcount.itsvg.in)
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=samritmukherjee&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samritmukherjee&theme=radical&hide_border=true&layout=compact" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=samritmukherjee&icon=0&color=6" />
+</p>
