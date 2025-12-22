@@ -2,8 +2,10 @@
 BTech CSE (AI & ML) student focused on building practical AI-powered web applications.  <br>Currently working on creative AI tools, full-stack systems, and hackathon projects.
 
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/samrit.mukherjee.125) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/samrit_mukherjee) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samrit-mukherjee-412788318) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:samritmukherjee05@gmail.com) 
+## 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samrit-mukherjee-412788318)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:samritmukherjee05@gmail.com)
+
 
 # 💻 Tech Stack
 
@@ -29,8 +31,6 @@ BTech CSE (AI & ML) student focused on building practical AI-powered web applica
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=plastic&logo=Adobe%20Premiere%20Pro&logoColor=white)
 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=samritmukherjee&theme=algolia&no-frame=true&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -40,5 +40,3 @@ BTech CSE (AI & ML) student focused on building practical AI-powered web applica
 
 ---
 [![](https://visitcount.itsvg.in/api?id=samritmukherjee&icon=0&color=6)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
