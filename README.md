@@ -63,9 +63,9 @@ Currently working on creative AI tools, full-stack systems, and hackathon projec
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=samritmukherjee&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=samritmukherjee&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=true&cache_seconds=1800)<br/>
 
-![](https://nirzak-streak-stats.vercel.app/?user=samritmukherjee&theme=highcontrast&hide_border=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=samritmukherjee&theme=highcontrast&hide_border=true&cache_seconds=1800)<br/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=samritmukherjee&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=samritmukherjee&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=true&layout=compact&cache_seconds=1800)
 
