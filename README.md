@@ -5,15 +5,13 @@ BTech CSE (AI & ML) student focused on building practical AI-powered web applica
 Currently working on creative AI tools, full-stack systems, and hackathon projects.
 </p>
 
-
-<p align="right">
-  <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="350" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=samritmukherjee&label=Profile%20Views&color=brightgreen&style=for-the-badge" />
 </p>
 
 
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=samritmukherjee&label=Profile%20Views&color=brightgreen&style=for-the-badge" />
+<p align="right">
+  <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="350" />
 </p>
 
 ---
