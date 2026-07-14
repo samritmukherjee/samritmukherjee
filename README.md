@@ -14,7 +14,7 @@ Currently working on creative AI tools, full-stack systems, and hackathon projec
 <h3 align="center">🌐 Let's Connect</h3>
 
 <p align="center">
-  <a href="https://www.samrit.dev" target="_blank">
+  <a href="https://samrit.dev/" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Portfolio-samrit.dev-111827?style=for-the-badge" alt="Portfolio" />
   </a>
   &nbsp;
