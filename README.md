@@ -1,3 +1,8 @@
+<p align="center"> 
+  <img width="1983" height="793" alt="7  Social Banner" src="https://github.com/user-attachments/assets/91c5278a-0fc0-4776-b19d-e5e11980877e" />
+</p>
+
+
 <h1 align="center">Hi 👋, I'm Samrit Mukherjee</h1>
 
 <p align="center">
@@ -10,9 +15,6 @@ Currently working on creative AI tools, full-stack systems, and hackathon projec
 </p>
 
 ---
-
-<img width="1983" height="793" alt="7  Social Banner" src="https://github.com/user-attachments/assets/91c5278a-0fc0-4776-b19d-e5e11980877e" />
-
 
 <h3 align="center">🌐 Let's Connect</h3>
 
