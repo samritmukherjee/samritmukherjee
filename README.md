@@ -11,6 +11,9 @@ Currently working on creative AI tools, full-stack systems, and hackathon projec
 
 ---
 
+<img width="1983" height="793" alt="7  Social Banner" src="https://github.com/user-attachments/assets/91c5278a-0fc0-4776-b19d-e5e11980877e" />
+
+
 <h3 align="center">🌐 Let's Connect</h3>
 
 <p align="center">
