@@ -3,6 +3,12 @@ assets/source-photo.png
 assets/source-*
 assets/prepped-*
 
+# Local generation scripts, data, and workflows (keep private on local machine)
+scripts/
+data/
+.github/
+docs/
+
 # Python
 __pycache__/
 *.py[cod]

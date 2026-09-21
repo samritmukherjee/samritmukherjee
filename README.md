@@ -1,3 +1,27 @@
+<picture>
+  <source srcset="assets/heading-01.svg" type="image/svg+xml">
+  <img src="assets/heading-01-static.svg" alt="01 - Terminal Profile &amp; ASCII Portrait" width="100%" />
+</picture>
+
+<table align="center" width="100%" border="0">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <picture>
+        <source srcset="assets/ascii-portrait.svg" type="image/svg+xml">
+        <img src="assets/ascii-portrait-static.svg" alt="Samrit Mukherjee ASCII Portrait" width="100%" />
+      </picture>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <picture>
+        <source srcset="assets/info-card.svg" type="image/svg+xml">
+        <img src="assets/info-card-static.svg" alt="Samrit Mukherjee Neofetch Card" width="100%" />
+      </picture>
+    </td>
+  </tr>
+</table>
+
+---
+
 <h1 align="center">
   <code>samrit@github ~ $ whoami</code>
 </h1>
@@ -23,28 +47,10 @@
 
 ---
 
-### 🖥️ Terminal Profile & ASCII Portrait
-
-<table align="center" width="100%" border="0">
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <picture>
-        <source srcset="assets/ascii-portrait.svg" type="image/svg+xml">
-        <img src="assets/ascii-portrait-static.svg" alt="Samrit Mukherjee ASCII Portrait" width="100%" />
-      </picture>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <picture>
-        <source srcset="assets/info-card.svg" type="image/svg+xml">
-        <img src="assets/info-card-static.svg" alt="Samrit Mukherjee Neofetch Card" width="100%" />
-      </picture>
-    </td>
-  </tr>
-</table>
-
----
-
-### 📊 Activity & Contributions
+<picture>
+  <source srcset="assets/heading-02.svg" type="image/svg+xml">
+  <img src="assets/heading-02-static.svg" alt="02 - Activity &amp; Contributions" width="100%" />
+</picture>
 
 <p align="center">
   <picture>
@@ -55,9 +61,12 @@
 
 ---
 
-### 🧠 Skills & Technical Arsenal
+<picture>
+  <source srcset="assets/heading-03.svg" type="image/svg+xml">
+  <img src="assets/heading-03-static.svg" alt="03 - Skills &amp; Technical Arsenal" width="100%" />
+</picture>
 
-#### 💻 Languages
+#### Languages
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -67,7 +76,7 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
 </p>
 
-#### 🌐 Web & Backend
+#### Web & Backend
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
@@ -75,7 +84,7 @@
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
 </p>
 
-#### 🤖 AI / ML & Agentic Systems
+#### AI / ML & Agentic Systems
 <p>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
@@ -85,7 +94,7 @@
   <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white" alt="Gemini" />
 </p>
 
-#### ☁️ Infrastructure, Vector Search & Cloud
+#### Infrastructure, Vector Search & Cloud
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
@@ -93,13 +102,13 @@
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
 </p>
 
-#### 🗄️ Databases
+#### Databases
 <p>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
 </p>
 
-#### 🛠️ Developer Tools
+#### Developer Tools
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -108,13 +117,16 @@
 
 ---
 
-### 🏆 Verified Achievements & Honors
+<picture>
+  <source srcset="assets/heading-04.svg" type="image/svg+xml">
+  <img src="assets/heading-04-static.svg" alt="04 - Verified Achievements &amp; Honors" width="100%" />
+</picture>
 
-* 🏆 **11 Hackathon Wins**
-* 🌐 **TOP 106 GLOBALLY**: Google Solution Challenge 2026 — Build with AI
-* 🥇 **WINNER**: Double Slash 4.0
-* 🥇 **WINNER**: Showcase X Techsprint
-* 🚀 **Best Startup Track**: Synchronicity 2.0
+* **11 Hackathon Wins**
+* **TOP 106 GLOBALLY**: Google Solution Challenge 2026 — Build with AI
+* **WINNER**: Double Slash 4.0
+* **WINNER**: Showcase X Techsprint
+* **Best Startup Track**: Synchronicity 2.0
 
 ---
 
