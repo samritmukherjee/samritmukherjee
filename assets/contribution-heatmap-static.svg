@@ -1,45 +1,45 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 155" width="860" height="155">
   <style>
-    .card-bg { fill: #0d1117; stroke: #30363d; stroke-width: 1px; rx: 8px; }
+    .card-bg   { fill: #0d1117; stroke: #30363d; stroke-width: 1px; rx: 8px; }
     .header-bar { fill: #161b22; stroke: #30363d; stroke-width: 1px; }
     .term-title { fill: #8b949e; font-family: ui-monospace, 'SF Mono', Menlo, Monaco, Consolas, monospace; font-size: 11px; font-weight: 600; }
     .stats-title { fill: #39d353; font-family: ui-monospace, 'SF Mono', Menlo, Monaco, Consolas, monospace; font-size: 11px; font-weight: 700; }
     .axis-label { fill: #7d8590; font-family: ui-monospace, 'SF Mono', Menlo, Monaco, Consolas, monospace; font-size: 9px; }
     .meta-label { fill: #7d8590; font-family: ui-monospace, 'SF Mono', Menlo, Monaco, Consolas, monospace; font-size: 10px; }
     .brand-link { fill: #58a6ff; font-family: ui-monospace, 'SF Mono', Menlo, Monaco, Consolas, monospace; font-size: 10px; }
-.c-sq { }  </style>
+    .c-sq { }
+  </style>
 
   <!-- Background Frame -->
   <rect x="1" y="1" width="858" height="153" class="card-bg" />
 
   <!-- Header -->
   <path d="M 1 8 Q 1 1 8 1 L 852 1 Q 859 1 859 8 L 859 28 L 1 28 Z" class="header-bar" />
-  <circle cx="18" cy="14.0" r="4" fill="#ff5f56" />
-  <circle cx="32" cy="14.0" r="4" fill="#ffbd2e" />
-  <circle cx="46" cy="14.0" r="4" fill="#27c93f" />
-
-  <text x="62" y="18.0" class="term-title">samrit@github ~ $ git log --contributions --last-year</text>
-  <text x="836" y="18.0" text-anchor="end" class="stats-title">358 Contributions  •  92 Active Days  •  Streak: 9d</text>
+  <circle cx="18" cy="14" r="4" fill="#ff5f56" />
+  <circle cx="32" cy="14" r="4" fill="#ffbd2e" />
+  <circle cx="46" cy="14" r="4" fill="#27c93f" />
+  <text x="62" y="18" class="term-title">samrit@github ~ $ git log --contributions --last-year</text>
+  <text x="836" y="18" text-anchor="end" class="stats-title">364 Contributions  •  93 Active Days  •  Streak: 10d</text>
 
   <!-- Month Labels -->
-  <text x="44.0" y="39" class="axis-label">Sep</text>
-  <text x="73.0" y="39" class="axis-label">Oct</text>
-  <text x="131.0" y="39" class="axis-label">Nov</text>
-  <text x="203.5" y="39" class="axis-label">Dec</text>
-  <text x="261.5" y="39" class="axis-label">Jan</text>
-  <text x="319.5" y="39" class="axis-label">Feb</text>
-  <text x="377.5" y="39" class="axis-label">Mar</text>
-  <text x="450.0" y="39" class="axis-label">Apr</text>
-  <text x="508.0" y="39" class="axis-label">May</text>
-  <text x="580.5" y="39" class="axis-label">Jun</text>
-  <text x="638.5" y="39" class="axis-label">Jul</text>
-  <text x="696.5" y="39" class="axis-label">Aug</text>
-  <text x="769.0" y="39" class="axis-label">Sep</text>
+    <text x="44.0" y="39" class="axis-label">Sep</text>
+    <text x="73.0" y="39" class="axis-label">Oct</text>
+    <text x="131.0" y="39" class="axis-label">Nov</text>
+    <text x="203.5" y="39" class="axis-label">Dec</text>
+    <text x="261.5" y="39" class="axis-label">Jan</text>
+    <text x="319.5" y="39" class="axis-label">Feb</text>
+    <text x="377.5" y="39" class="axis-label">Mar</text>
+    <text x="450.0" y="39" class="axis-label">Apr</text>
+    <text x="508.0" y="39" class="axis-label">May</text>
+    <text x="580.5" y="39" class="axis-label">Jun</text>
+    <text x="638.5" y="39" class="axis-label">Jul</text>
+    <text x="696.5" y="39" class="axis-label">Aug</text>
+    <text x="769.0" y="39" class="axis-label">Sep</text>
 
   <!-- Day Labels -->
-  <text x="36" y="65.1" class="axis-label" text-anchor="end">Mon</text>
-  <text x="36" y="88.1" class="axis-label" text-anchor="end">Wed</text>
-  <text x="36" y="111.1" class="axis-label" text-anchor="end">Fri</text>
+    <text x="36" y="65.2" class="axis-label" text-anchor="end">Mon</text>
+    <text x="36" y="88.2" class="axis-label" text-anchor="end">Wed</text>
+    <text x="36" y="111.2" class="axis-label" text-anchor="end">Fri</text>
 
   <!-- Heatmap Cells -->
   <g id="heatmap-cells">
@@ -408,20 +408,15 @@
     <rect x="783.5" y="103.5" width="9.5" height="9.5" rx="1.5" fill="#006d32" stroke="#006d32" stroke-width="0.5" class="c-sq"><title>4 contributions on 2026-09-18</title></rect>
     <rect x="783.5" y="115.0" width="9.5" height="9.5" rx="1.5" fill="#0e4429" stroke="#0e4429" stroke-width="0.5" class="c-sq"><title>1 contributions on 2026-09-19</title></rect>
     <rect x="798.0" y="46.0" width="9.5" height="9.5" rx="1.5" fill="#26a641" stroke="#26a641" stroke-width="0.5" class="c-sq"><title>6 contributions on 2026-09-20</title></rect>
-    <rect x="798.0" y="57.5" width="9.5" height="9.5" rx="1.5" fill="#0e4429" stroke="#0e4429" stroke-width="0.5" class="c-sq"><title>1 contributions on 2026-09-21</title></rect>
+    <rect x="798.0" y="57.5" width="9.5" height="9.5" rx="1.5" fill="#006d32" stroke="#006d32" stroke-width="0.5" class="c-sq"><title>3 contributions on 2026-09-21</title></rect>
+    <rect x="798.0" y="69.0" width="9.5" height="9.5" rx="1.5" fill="#006d32" stroke="#006d32" stroke-width="0.5" class="c-sq"><title>4 contributions on 2026-09-22</title></rect>
   </g>
 
-  <!-- Footer Metadata & Legend -->
-  <text x="44" y="143.1" class="meta-label">
-    Data synced from <tspan class="brand-link">github.com/samritmukherjee</tspan> (Updated 2026-09-21 16:39:07 UTC)
-  </text>
-  <g id="legend">
-    <text x="680" y="143.1" class="meta-label">Less</text>
-    <rect x="716" y="135.5" width="9.5" height="9.5" rx="1.5" fill="#161b22" stroke="#21262d" stroke-width="0.5"/>
-    <rect x="729.0" y="135.5" width="9.5" height="9.5" rx="1.5" fill="#0e4429" stroke="#0e4429" stroke-width="0.5"/>
-    <rect x="742.0" y="135.5" width="9.5" height="9.5" rx="1.5" fill="#006d32" stroke="#006d32" stroke-width="0.5"/>
-    <rect x="755.0" y="135.5" width="9.5" height="9.5" rx="1.5" fill="#26a641" stroke="#26a641" stroke-width="0.5"/>
-    <rect x="768.0" y="135.5" width="9.5" height="9.5" rx="1.5" fill="#39d353" stroke="#39d353" stroke-width="0.5"/>
-    <text x="785.0" y="143.1" class="meta-label">More</text>
-  </g>
+  <!-- Footer: timestamp + legend -->
+  <text x="44" y="143" class="meta-label">Data synced from <tspan class="brand-link">github.com/samritmukherjee</tspan> (Updated 2026-09-22 19:15:30 UTC)</text>
+    <g id="legend">
+      <text x="680" y="143" class="meta-label">Less</text>
+      <rect x="716.0" y="135.5" width="9.5" height="9.5" rx="1.5" fill="#161b22" stroke="#21262d" stroke-width="0.5"/> <rect x="729.0" y="135.5" width="9.5" height="9.5" rx="1.5" fill="#0e4429" stroke="#0e4429" stroke-width="0.5"/> <rect x="742.0" y="135.5" width="9.5" height="9.5" rx="1.5" fill="#006d32" stroke="#006d32" stroke-width="0.5"/> <rect x="755.0" y="135.5" width="9.5" height="9.5" rx="1.5" fill="#26a641" stroke="#26a641" stroke-width="0.5"/> <rect x="768.0" y="135.5" width="9.5" height="9.5" rx="1.5" fill="#39d353" stroke="#39d353" stroke-width="0.5"/>
+      <text x="781.0" y="143" class="meta-label">More</text>
+    </g>
 </svg>

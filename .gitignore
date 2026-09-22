@@ -1,15 +1,25 @@
-# Source portrait images (keep private raw images uncommitted)
+# Source portrait images — keep raw images private, never commit
 assets/source-photo.png
 assets/source-*
 assets/prepped-*
 
-# Local generation scripts, data, and workflows (keep private on local machine)
-scripts/
+# Local-only generation scripts (not required by the automated heatmap updater)
+# The three heatmap-pipeline files below are intentionally NOT ignored:
+#   scripts/fetch_contributions.py
+#   scripts/render_heatmap_svg.py
+#   scripts/requirements.txt
+scripts/make_ascii_svg.py
+scripts/make_headings_svg.py
+scripts/make_info_card.py
+scripts/prep_photo.py
+
+# Data directory — generated at CI runtime; too large and too noisy to track
 data/
-.github/
+
+# docs/
 docs/
 
-# Python
+# Python bytecode & build artefacts
 __pycache__/
 *.py[cod]
 *$py.class

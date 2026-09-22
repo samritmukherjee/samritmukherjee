@@ -1,0 +1,50 @@
+name: Update Contribution Heatmap
+
+on:
+  schedule:
+    # Run every hour at :00
+    - cron: "0 * * * *"
+  workflow_dispatch:  # Allow manual trigger from the Actions tab
+
+permissions:
+  contents: write  # Needed to commit & push the regenerated SVGs
+
+jobs:
+  update-heatmap:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+          cache-dependency-path: scripts/requirements.txt
+
+      - name: Install dependencies
+        run: pip install -r scripts/requirements.txt
+
+      - name: Fetch latest contribution data
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/fetch_contributions.py
+
+      - name: Regenerate contribution heatmap SVGs
+        run: python scripts/render_heatmap_svg.py --both
+
+      - name: Commit and push if SVGs changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add assets/contribution-heatmap.svg \
+                  assets/contribution-heatmap-static.svg
+          if git diff --staged --quiet; then
+            echo "Contribution heatmap is already up to date — nothing to commit."
+          else
+            TIMESTAMP=$(date -u '+%Y-%m-%d %H:%M UTC')
+            git commit -m "chore(heatmap): auto-update contribution chart [${TIMESTAMP}] [skip ci]"
+            git push
+          fi
