@@ -1,8 +1,3 @@
-<picture>
-  <source srcset="assets/heading-01.svg" type="image/svg+xml">
-  <img src="assets/heading-01-static.svg" alt="01 - Activity &amp; Contributions" width="100%" />
-</picture>
-
 <p align="center">
   <picture>
     <source srcset="assets/contribution-heatmap.svg" type="image/svg+xml">
