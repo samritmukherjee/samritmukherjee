@@ -47,10 +47,10 @@
     <text x="98" y="26" class="prefix-arrow">&gt;</text>
 
     <!-- Shiny Heading Title -->
-    <text x="118" y="26" class="title-text">ACTIVITY &amp; CONTRIBUTIONS</text>
+    <text x="118" y="26" class="title-text">TERMINAL PROFILE &amp; ASCII PORTRAIT</text>
 
     <!-- Static Terminal Cursor -->
-    <rect class="terminal-cursor" x="374" y="13" width="7" height="16" opacity="0.8" />
+    <rect class="terminal-cursor" x="466" y="13" width="7" height="16" opacity="0.8" />
   </g>
 
   <!-- Laser Accent Track & Beam -->

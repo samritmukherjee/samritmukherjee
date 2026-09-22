@@ -42,3 +42,9 @@ env/
 .idea/
 .DS_Store
 Thumbs.db
+
+# Scratch, test & temporary files
+scratch/
+scratch_*.*
+test_*.*
+*.tmp

@@ -1,6 +1,20 @@
 <picture>
   <source srcset="assets/heading-01.svg" type="image/svg+xml">
-  <img src="assets/heading-01-static.svg" alt="01 - Terminal Profile &amp; ASCII Portrait" width="100%" />
+  <img src="assets/heading-01-static.svg" alt="01 - Activity &amp; Contributions" width="100%" />
+</picture>
+
+<p align="center">
+  <picture>
+    <source srcset="assets/contribution-heatmap.svg" type="image/svg+xml">
+    <img src="assets/contribution-heatmap-static.svg" alt="GitHub Contribution Heatmap" width="100%" />
+  </picture>
+</p>
+
+---
+
+<picture>
+  <source srcset="assets/heading-02.svg" type="image/svg+xml">
+  <img src="assets/heading-02-static.svg" alt="02 - Terminal Profile &amp; ASCII Portrait" width="100%" />
 </picture>
 
 <table align="center" width="100%" border="0">
@@ -48,71 +62,72 @@
 ---
 
 <picture>
-  <source srcset="assets/heading-02.svg" type="image/svg+xml">
-  <img src="assets/heading-02-static.svg" alt="02 - Activity &amp; Contributions" width="100%" />
-</picture>
-
-<p align="center">
-  <picture>
-    <source srcset="assets/contribution-heatmap.svg" type="image/svg+xml">
-    <img src="assets/contribution-heatmap-static.svg" alt="GitHub Contribution Heatmap" width="100%" />
-  </picture>
-</p>
-
----
-
-<picture>
   <source srcset="assets/heading-03.svg" type="image/svg+xml">
   <img src="assets/heading-03-static.svg" alt="03 - Skills &amp; Technical Arsenal" width="100%" />
 </picture>
 
 #### Languages
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <a href="https://www.java.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="22" height="22" alt="Java" align="center" /> <code>Java</code></a> &nbsp;&nbsp;
+  <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="22" height="22" alt="Python" align="center" /> <code>Python</code></a> &nbsp;&nbsp;
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="22" height="22" alt="C" align="center" /> <code>C</code></a> &nbsp;&nbsp;
+  <a href="https://isocpp.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="22" height="22" alt="C++" align="center" /> <code>C++</code></a> &nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="22" height="22" alt="JavaScript" align="center" /> <code>JavaScript</code></a> &nbsp;&nbsp;
+  <a href="https://www.typescriptlang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="22" height="22" alt="TypeScript" align="center" /> <code>TypeScript</code></a> &nbsp;&nbsp;
+  <a href="https://www.swi-prolog.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prolog/prolog-original.svg" width="22" height="22" alt="Prolog" align="center" /> <code>Prolog</code></a>
 </p>
 
-#### Web & Backend
+#### Frontend
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="22" height="22" alt="HTML" align="center" /> <code>HTML</code></a> &nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="22" height="22" alt="CSS" align="center" /> <code>CSS</code></a> &nbsp;&nbsp;
+  <a href="https://react.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="22" height="22" alt="React" align="center" /> <code>React</code></a> &nbsp;&nbsp;
+  <a href="https://nextjs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="22" height="22" alt="Next.js" align="center" /> <code>Next.js</code></a> &nbsp;&nbsp;
+  <a href="https://tailwindcss.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="22" height="22" alt="Tailwind CSS" align="center" /> <code>Tailwind CSS</code></a> &nbsp;&nbsp;
+  <a href="https://www.framer.com/motion/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/framermotion/framermotion-original.svg" width="22" height="22" alt="Framer Motion" align="center" /> <code>Framer Motion</code></a>
 </p>
 
-#### AI / ML & Agentic Systems
+#### Backend
 <p>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=diagram-next&logoColor=white" alt="LangGraph" />
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
-  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white" alt="Gemini" />
+  <a href="https://nodejs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="22" height="22" alt="Node.js" align="center" /> <code>Node.js</code></a> &nbsp;&nbsp;
+  <a href="https://flask.palletsprojects.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" width="22" height="22" alt="Flask" align="center" /> <code>Flask</code></a> &nbsp;&nbsp;
+  <a href="https://fastapi.tiangolo.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="22" height="22" alt="FastAPI" align="center" /> <code>FastAPI</code></a> &nbsp;&nbsp;
+  <a href="https://www.openapis.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/openapi/openapi-original.svg" width="22" height="22" alt="REST APIs" align="center" /> <code>REST APIs</code></a> &nbsp;&nbsp;
+  <a href="https://en.wikipedia.org/wiki/SQL"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="22" height="22" alt="SQL" align="center" /> <code>SQL</code></a>
 </p>
 
-#### Infrastructure, Vector Search & Cloud
+#### AI / ML
 <p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/FAISS-00599C?style=for-the-badge&logo=meta&logoColor=white" alt="FAISS" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <a href="https://numpy.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="22" height="22" alt="NumPy" align="center" /> <code>NumPy</code></a> &nbsp;&nbsp;
+  <a href="https://pandas.pydata.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="22" height="22" alt="Pandas" align="center" /> <code>Pandas</code></a> &nbsp;&nbsp;
+  <a href="https://gemini.google.com/"><img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="22" height="22" alt="LLM APIs" align="center" /> <code>LLM APIs</code></a> &nbsp;&nbsp;
+  <a href="https://www.langchain.com/"><img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="22" height="22" alt="RAG Systems" align="center" /> <code>RAG Systems</code></a>
 </p>
 
-#### Databases
+#### Tools & Platforms
 <p>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <a href="https://git-scm.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="22" height="22" alt="Git" align="center" /> <code>Git</code></a> &nbsp;&nbsp;
+  <a href="https://github.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="22" height="22" alt="GitHub" align="center" /> <code>GitHub</code></a> &nbsp;&nbsp;
+  <a href="https://vercel.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" width="22" height="22" alt="Vercel" align="center" /> <code>Vercel</code></a> &nbsp;&nbsp;
+  <a href="https://aws.amazon.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="22" height="22" alt="AWS" align="center" /> <code>AWS</code></a> &nbsp;&nbsp;
+  <a href="https://razorpay.com/"><img src="https://cdn.simpleicons.org/razorpay/3395FF" width="22" height="22" alt="Razorpay" align="center" /> <code>Razorpay</code></a>
 </p>
 
-#### Developer Tools
+#### Design & Media
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
+  <a href="https://www.figma.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="22" height="22" alt="Figma" align="center" /> <code>Figma</code></a> &nbsp;&nbsp;
+  <a href="https://www.canva.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width="22" height="22" alt="Canva" align="center" /> <code>Canva</code></a> &nbsp;&nbsp;
+  <a href="https://www.adobe.com/products/photoshop.html"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" width="22" height="22" alt="Adobe Photoshop" align="center" /> <code>Adobe Photoshop</code></a> &nbsp;&nbsp;
+  <a href="https://filmora.wondershare.com/"><img src="https://cdn.simpleicons.org/wondersharefilmora/00B2B2" width="22" height="22" alt="Filmora" align="center" /> <code>Filmora</code></a> &nbsp;&nbsp;
+  <a href="https://www.interaction-design.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xd/xd-original.svg" width="22" height="22" alt="UI/UX" align="center" /> <code>UI/UX</code></a>
+</p>
+
+#### Core Concepts
+<p>
+  <a href="https://leetcode.com/"><img src="https://cdn.simpleicons.org/leetcode/FFA116" width="22" height="22" alt="DSA" align="center" /> <code>DSA</code></a> &nbsp;&nbsp;
+  <a href="https://www.anthropic.com/"><img src="https://cdn.simpleicons.org/anthropic/D97757" width="22" height="22" alt="AI Systems" align="center" /> <code>AI Systems</code></a> &nbsp;&nbsp;
+  <a href="https://stackshare.io/"><img src="https://cdn.simpleicons.org/stackshare/06ACD8" width="22" height="22" alt="Full Stack Engineering" align="center" /> <code>Full Stack Engineering</code></a> &nbsp;&nbsp;
+  <a href="https://www.producthunt.com/"><img src="https://cdn.simpleicons.org/producthunt/DA552F" width="22" height="22" alt="Product Development" align="center" /> <code>Product Development</code></a>
 </p>
 
 ---
