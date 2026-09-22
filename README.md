@@ -66,69 +66,101 @@
   <img src="assets/heading-03-static.svg" alt="03 - Skills &amp; Technical Arsenal" width="100%" />
 </picture>
 
-#### Languages
-<p>
-  <a href="https://www.java.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="22" height="22" alt="Java" align="center" /> <code>Java</code></a> &nbsp;&nbsp;
-  <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="22" height="22" alt="Python" align="center" /> <code>Python</code></a> &nbsp;&nbsp;
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="22" height="22" alt="C" align="center" /> <code>C</code></a> &nbsp;&nbsp;
-  <a href="https://isocpp.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="22" height="22" alt="C++" align="center" /> <code>C++</code></a> &nbsp;&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="22" height="22" alt="JavaScript" align="center" /> <code>JavaScript</code></a> &nbsp;&nbsp;
-  <a href="https://www.typescriptlang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="22" height="22" alt="TypeScript" align="center" /> <code>TypeScript</code></a> &nbsp;&nbsp;
-  <a href="https://www.swi-prolog.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prolog/prolog-original.svg" width="22" height="22" alt="Prolog" align="center" /> <code>Prolog</code></a>
-</p>
-
-#### Frontend
-<p>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="22" height="22" alt="HTML" align="center" /> <code>HTML</code></a> &nbsp;&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="22" height="22" alt="CSS" align="center" /> <code>CSS</code></a> &nbsp;&nbsp;
-  <a href="https://react.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="22" height="22" alt="React" align="center" /> <code>React</code></a> &nbsp;&nbsp;
-  <a href="https://nextjs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="22" height="22" alt="Next.js" align="center" /> <code>Next.js</code></a> &nbsp;&nbsp;
-  <a href="https://tailwindcss.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="22" height="22" alt="Tailwind CSS" align="center" /> <code>Tailwind CSS</code></a> &nbsp;&nbsp;
-  <a href="https://www.framer.com/motion/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/framermotion/framermotion-original.svg" width="22" height="22" alt="Framer Motion" align="center" /> <code>Framer Motion</code></a>
-</p>
-
-#### Backend
-<p>
-  <a href="https://nodejs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="22" height="22" alt="Node.js" align="center" /> <code>Node.js</code></a> &nbsp;&nbsp;
-  <a href="https://flask.palletsprojects.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" width="22" height="22" alt="Flask" align="center" /> <code>Flask</code></a> &nbsp;&nbsp;
-  <a href="https://fastapi.tiangolo.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="22" height="22" alt="FastAPI" align="center" /> <code>FastAPI</code></a> &nbsp;&nbsp;
-  <a href="https://www.openapis.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/openapi/openapi-original.svg" width="22" height="22" alt="REST APIs" align="center" /> <code>REST APIs</code></a> &nbsp;&nbsp;
-  <a href="https://en.wikipedia.org/wiki/SQL"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="22" height="22" alt="SQL" align="center" /> <code>SQL</code></a>
-</p>
-
-#### AI / ML
-<p>
-  <a href="https://numpy.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="22" height="22" alt="NumPy" align="center" /> <code>NumPy</code></a> &nbsp;&nbsp;
-  <a href="https://pandas.pydata.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="22" height="22" alt="Pandas" align="center" /> <code>Pandas</code></a> &nbsp;&nbsp;
-  <a href="https://gemini.google.com/"><img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="22" height="22" alt="LLM APIs" align="center" /> <code>LLM APIs</code></a> &nbsp;&nbsp;
-  <a href="https://www.langchain.com/"><img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="22" height="22" alt="RAG Systems" align="center" /> <code>RAG Systems</code></a>
-</p>
-
-#### Tools & Platforms
-<p>
-  <a href="https://git-scm.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="22" height="22" alt="Git" align="center" /> <code>Git</code></a> &nbsp;&nbsp;
-  <a href="https://github.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="22" height="22" alt="GitHub" align="center" /> <code>GitHub</code></a> &nbsp;&nbsp;
-  <a href="https://vercel.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" width="22" height="22" alt="Vercel" align="center" /> <code>Vercel</code></a> &nbsp;&nbsp;
-  <a href="https://aws.amazon.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="22" height="22" alt="AWS" align="center" /> <code>AWS</code></a> &nbsp;&nbsp;
-  <a href="https://razorpay.com/"><img src="https://cdn.simpleicons.org/razorpay/3395FF" width="22" height="22" alt="Razorpay" align="center" /> <code>Razorpay</code></a>
-</p>
-
-#### Design & Media
-<p>
-  <a href="https://www.figma.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="22" height="22" alt="Figma" align="center" /> <code>Figma</code></a> &nbsp;&nbsp;
-  <a href="https://www.canva.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width="22" height="22" alt="Canva" align="center" /> <code>Canva</code></a> &nbsp;&nbsp;
-  <a href="https://www.adobe.com/products/photoshop.html"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" width="22" height="22" alt="Adobe Photoshop" align="center" /> <code>Adobe Photoshop</code></a> &nbsp;&nbsp;
-  <a href="https://filmora.wondershare.com/"><img src="https://cdn.simpleicons.org/wondersharefilmora/00B2B2" width="22" height="22" alt="Filmora" align="center" /> <code>Filmora</code></a> &nbsp;&nbsp;
-  <a href="https://www.interaction-design.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xd/xd-original.svg" width="22" height="22" alt="UI/UX" align="center" /> <code>UI/UX</code></a>
-</p>
-
-#### Core Concepts
-<p>
-  <a href="https://leetcode.com/"><img src="https://cdn.simpleicons.org/leetcode/FFA116" width="22" height="22" alt="DSA" align="center" /> <code>DSA</code></a> &nbsp;&nbsp;
-  <a href="https://www.anthropic.com/"><img src="https://cdn.simpleicons.org/anthropic/D97757" width="22" height="22" alt="AI Systems" align="center" /> <code>AI Systems</code></a> &nbsp;&nbsp;
-  <a href="https://stackshare.io/"><img src="https://cdn.simpleicons.org/stackshare/06ACD8" width="22" height="22" alt="Full Stack Engineering" align="center" /> <code>Full Stack Engineering</code></a> &nbsp;&nbsp;
-  <a href="https://www.producthunt.com/"><img src="https://cdn.simpleicons.org/producthunt/DA552F" width="22" height="22" alt="Product Development" align="center" /> <code>Product Development</code></a>
-</p>
+<table width="100%">
+  <tr>
+    <th colspan="4" align="left"><code>&gt; Languages</code></th>
+  </tr>
+  <tr>
+    <td width="25%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="20" height="20" align="center" alt="Java" />&nbsp; Java</td>
+    <td width="25%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="20" height="20" align="center" alt="Python" />&nbsp; Python</td>
+    <td width="25%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="20" height="20" align="center" alt="C" />&nbsp; C</td>
+    <td width="25%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="20" height="20" align="center" alt="C++" />&nbsp; C++</td>
+  </tr>
+  <tr>
+    <td width="25%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="20" height="20" align="center" alt="JavaScript" />&nbsp; JavaScript</td>
+    <td width="25%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="20" height="20" align="center" alt="TypeScript" />&nbsp; TypeScript</td>
+    <td width="25%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prolog/prolog-original.svg" width="20" height="20" align="center" alt="Prolog" />&nbsp; Prolog</td>
+    <td width="25%"></td>
+  </tr>
+  <tr>
+    <th colspan="4" align="left"><code>&gt; Frontend</code></th>
+  </tr>
+  <tr>
+    <td width="25%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="20" height="20" align="center" alt="HTML" />&nbsp; HTML</td>
+    <td width="25%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="20" height="20" align="center" alt="CSS" />&nbsp; CSS</td>
+    <td width="25%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="20" height="20" align="center" alt="React" />&nbsp; React</td>
+    <td width="25%"><img src="https://cdn.simpleicons.org/nextdotjs/ffffff" width="20" height="20" align="center" alt="Next.js" />&nbsp; Next.js</td>
+  </tr>
+  <tr>
+    <td width="25%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="20" height="20" align="center" alt="Tailwind CSS" />&nbsp; Tailwind CSS</td>
+    <td width="25%"><img src="https://cdn.simpleicons.org/framer/0055FF" width="20" height="20" align="center" alt="Framer Motion" />&nbsp; Framer Motion</td>
+    <td width="25%"></td>
+    <td width="25%"></td>
+  </tr>
+  <tr>
+    <th colspan="4" align="left"><code>&gt; Backend</code></th>
+  </tr>
+  <tr>
+    <td width="25%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="20" height="20" align="center" alt="Node.js" />&nbsp; Node.js</td>
+    <td width="25%"><img src="https://cdn.simpleicons.org/flask/ffffff" width="20" height="20" align="center" alt="Flask" />&nbsp; Flask</td>
+    <td width="25%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="20" height="20" align="center" alt="FastAPI" />&nbsp; FastAPI</td>
+    <td width="25%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/openapi/openapi-original.svg" width="20" height="20" align="center" alt="REST APIs" />&nbsp; REST APIs</td>
+  </tr>
+  <tr>
+    <td width="25%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="20" height="20" align="center" alt="SQL" />&nbsp; SQL</td>
+    <td width="25%"></td>
+    <td width="25%"></td>
+    <td width="25%"></td>
+  </tr>
+  <tr>
+    <th colspan="4" align="left"><code>&gt; AI / ML</code></th>
+  </tr>
+  <tr>
+    <td width="25%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="20" height="20" align="center" alt="NumPy" />&nbsp; NumPy</td>
+    <td width="25%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="20" height="20" align="center" alt="Pandas" />&nbsp; Pandas</td>
+    <td width="25%"><img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="20" height="20" align="center" alt="LLM APIs" />&nbsp; LLM APIs</td>
+    <td width="25%"><img src="https://cdn.simpleicons.org/langchain/10B981" width="20" height="20" align="center" alt="RAG Systems" />&nbsp; RAG Systems</td>
+  </tr>
+  <tr>
+    <th colspan="4" align="left"><code>&gt; Tools &amp; Platforms</code></th>
+  </tr>
+  <tr>
+    <td width="25%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="20" height="20" align="center" alt="Git" />&nbsp; Git</td>
+    <td width="25%"><img src="https://cdn.simpleicons.org/github/ffffff" width="20" height="20" align="center" alt="GitHub" />&nbsp; GitHub</td>
+    <td width="25%"><img src="https://cdn.simpleicons.org/vercel/ffffff" width="20" height="20" align="center" alt="Vercel" />&nbsp; Vercel</td>
+    <td width="25%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="20" height="20" align="center" alt="AWS" />&nbsp; AWS</td>
+  </tr>
+  <tr>
+    <td width="25%"><img src="https://cdn.simpleicons.org/razorpay/3395FF" width="20" height="20" align="center" alt="Razorpay" />&nbsp; Razorpay</td>
+    <td width="25%"></td>
+    <td width="25%"></td>
+    <td width="25%"></td>
+  </tr>
+  <tr>
+    <th colspan="4" align="left"><code>&gt; Design &amp; Media</code></th>
+  </tr>
+  <tr>
+    <td width="25%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="20" height="20" align="center" alt="Figma" />&nbsp; Figma</td>
+    <td width="25%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width="20" height="20" align="center" alt="Canva" />&nbsp; Canva</td>
+    <td width="25%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" width="20" height="20" align="center" alt="Adobe Photoshop" />&nbsp; Adobe Photoshop</td>
+    <td width="25%"><img src="https://cdn.simpleicons.org/wondersharefilmora/00B2B2" width="20" height="20" align="center" alt="Filmora" />&nbsp; Filmora</td>
+  </tr>
+  <tr>
+    <td width="25%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xd/xd-original.svg" width="20" height="20" align="center" alt="UI/UX" />&nbsp; UI/UX</td>
+    <td width="25%"></td>
+    <td width="25%"></td>
+    <td width="25%"></td>
+  </tr>
+  <tr>
+    <th colspan="4" align="left"><code>&gt; Core Concepts</code></th>
+  </tr>
+  <tr>
+    <td width="25%"><img src="https://cdn.simpleicons.org/thealgorithms/58a6ff" width="20" height="20" align="center" alt="DSA" />&nbsp; DSA</td>
+    <td width="25%"><img src="https://cdn.simpleicons.org/probot/58a6ff" width="20" height="20" align="center" alt="AI Systems" />&nbsp; AI Systems</td>
+    <td width="25%"><img src="https://cdn.simpleicons.org/blueprint/58a6ff" width="20" height="20" align="center" alt="Full Stack Engineering" />&nbsp; Full Stack Engineering</td>
+    <td width="25%"><img src="https://cdn.simpleicons.org/target/58a6ff" width="20" height="20" align="center" alt="Product Development" />&nbsp; Product Development</td>
+  </tr>
+</table>
 
 ---
 
