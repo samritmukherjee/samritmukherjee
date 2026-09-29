@@ -175,3 +175,4 @@
 <p align="center">
   <sub><code>samrit@github ~ $ exit 0</code> &bull; Built with custom self-contained SVGs &bull; Updated via GitHub Actions</sub>
 </p>
+
